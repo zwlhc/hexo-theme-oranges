@@ -27,7 +27,7 @@ favicon:
 # 用户头像与昵称
 avatar:
   author_photo: /images/face.png
-  author_nickname: 
+  author_nickname: Rice
   path: /
 
 # Google 分析
